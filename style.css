@@ -61,6 +61,11 @@ main {
   border-bottom: 8px solid hsl(0deg, 0%, 40%);
 }
 
+.card p {
+  line-height: 1.4;
+  font-size: 1.125rem;
+}
+
 .indented-heading {
   background-color: hsl(45deg, 100%, 50%);
   margin: 0;
