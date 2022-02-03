@@ -41,12 +41,14 @@ h3 {
   font-size: 2rem;
 }
 
+header {
+  border-bottom: 8px solid hsl(0deg, 0%, 40%);
+}
+
 main {
   background-color: hsl(0deg, 0%, 60%);
   padding-top: 64px;
   padding-bottom: 64px;
-
-  border-top: 8px solid hsl(0deg, 0%, 40%);
 }
 
 .card {
