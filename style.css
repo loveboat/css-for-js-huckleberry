@@ -68,7 +68,7 @@ main {
   margin: 0;
 
   /* negative margin trick (again :) */
-  padding: 16 32px;
+  padding: 16px 32px;
   margin-left: -32px;
 
   width: fit-content;
